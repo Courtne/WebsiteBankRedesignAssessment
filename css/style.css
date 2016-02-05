@@ -141,19 +141,19 @@ header > nav ul li a {
 /* Hero Section */
 
 #hero {
-  background: 
+  background:
     linear-gradient(
-      rgba(36,65,75,0.58), 
+      rgba(36,65,75,0.58),
       rgba(36,65,75,0.58)
     ),
-    url('../images/hero_bg.jpg');
+    url('../images/form_bg.jpeg');
 	background-size: cover;
 	text-align: center;
 	color: white;
 }
 
 #hero > .inner-wrapper {
-	max-width: 900px;	
+	max-width: 900px;
 }
 
 #hero h2 {
@@ -172,7 +172,7 @@ header > nav ul li a {
 	padding: 40px;
 }
 
-#hero .heroPercentage h3, 
+#hero .heroPercentage h3,
 #hero .heroPercentage p {
 	margin: 0;
 }
@@ -200,15 +200,15 @@ header > nav ul li a {
 
 /* Form Section */
 #formSection {
-  background: 
+  background:
     linear-gradient(
-      rgba(36,65,75,0.58), 
+      rgba(36,65,75,0.58),
       rgba(36,65,75,0.58)
     ),
     url('../images/hero_bg.jpg');
 	background-size: cover;
 	text-align: center;
-	color: white;	
+	color: white;
 }
 
 #formSection .large-inner-wrapper {
@@ -303,6 +303,10 @@ footer {
 	margin: 0 auto;
 	padding: 65px 0;
 	border-top: 1px solid #495b60;
+}
+
+footer p {
+	font-family: 'Alike Angular', serif;
 }
 
 footer > #footerLogo {
