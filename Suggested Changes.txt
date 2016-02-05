@@ -1,0 +1,25 @@
+
+Goal: To gain business by inspiring confidence in FakeBank's customer-focus, capabilities and resources.
+
+Section I: Functionality
+- FakeBank Logo at the top of the page to link back to the homepage
+- Button/Icons to flow when the screen size is reduced so they don't overlap
+- Button/Icons link to additional information on each topic (e.g. new page, jump to page, hover and highlight)
+- Add more content, Add photos of the 5 staff, get more useful testimonials
+- Add basic contact information and social media links at the bottom of homepage
+- Add "In the News" or "Community Involvement"
+
+Section II: Style
+- Photos to be bright and clean
+- Photos to be different instead of repeated
+- Brighter colors to stimulate confidence in FakeBank
+- Contact and About Us pages to have similar styling to Home Page (possibly picture, icons, etc.)
+- Images with customer testimonials to be larger, in proportion to font and page
+
+Section III: Clean up
+- Field names on form all justified
+- Submit button in form justified or otherwise set apart
+- Buttons to look like buttons, non-buttons to look like non-buttons
+- Too much white space after "About Us"
+- FakeBank logo and Navbar to be justifed to out to edges of page, or otherwise visually anchored
+
